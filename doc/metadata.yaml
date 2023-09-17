@@ -1,0 +1,13 @@
+description: Power bridge for 50V and 80A.
+github_branch: HB1FET01A
+github_description: Power bridge for 50V and 80A.
+github_repo: HB1FET01
+github_url: https://github.com/mlab-modules/HB1FET01
+homepage: false
+images:
+- doc/img/HB1FET01A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: HB1FET01
+updated: '2023-09-17T11:41:39.442842+00:00'

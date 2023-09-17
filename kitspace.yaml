@@ -1,0 +1,8 @@
+bom: hw/sch_pcb/HB1FET01.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/HB1FET01.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/HB1FET01
+summary: Power bridge for 50V and 80A.
